@@ -1,0 +1,25 @@
+{
+  "name": "2021_travel_app",
+  "version": "1.0.0",
+  "description": "node.js travel-app project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyejin0320/travel-app.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyejin0320/travel-app/issues"
+  },
+  "homepage": "https://github.com/hyejin0320/travel-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
